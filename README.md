@@ -32,18 +32,20 @@ O projeto não é um curso convencional. É uma **base de conhecimento viva** �
 │   └── Por_Unidade_Tematica/
 │       └── Numeros_1_a_5.md
 │
-└── 🏫 Matematica_Fundamental_1_a_9/
-    ├── Habilidades_Completa_Fundamental_II.md
-    ├── 6º_Ano/
-    ├── 7º_Ano/
-    ├── 8º_Ano/
-    ├── 9º_Ano/
-    └── Por_Unidade_Tematica/
-        ├── Numeros_6_a_9.md
-        ├── Algebra_6_a_9.md
-        ├── Geometria_6_a_9.md
-        ├── Grandezas_Medidas_6_a_9.md
-        └── Probabilidade_Estatistica_6_a_9.md
+├── 🏫 Matematica_Fundamental_1_a_9/
+│   ├── Habilidades_Completa_Fundamental_II.md
+│   ├── 6º_Ano/
+│   ├── 7º_Ano/
+│   ├── 8º_Ano/
+│   ├── 9º_Ano/
+│   └── Por_Unidade_Tematica/
+│       ├── Numeros_6_a_9.md
+│       ├── Algebra_6_a_9.md
+│       ├── Algebra_6_a_9.md
+│       ├── Geometria_6_a_9.md
+│       ├── Grandezas_Medidas_6_a_9.md
+│       └── Probabilidade_Estatistica_6_a_9.md
+└── 🏫 Matematica_Medio_1_a_3/        
 ```
 
 ---
@@ -97,8 +99,9 @@ Cobre todo o Ensino Fundamental (1º ao 9º ano) nas cinco unidades temáticas d
 
 | Nível | Anos | Status |
 |-------|------|--------|
-| Ensino Fundamental I | 1º ao 5º ano | ✅ Estruturado |
-| Ensino Fundamental II | 6º ao 9º ano | ✅ Estruturado |
+| Ensino Fundamental I | 1º ao 5º ano | 🔲 Pendente |
+| Ensino Fundamental II | 6º ao 9º ano | 🔲 Pendente |
+| Ensino  Médio | 1º ao 3º ano | 🔲 Pendente |
 
 ---
 
@@ -126,8 +129,9 @@ Juntos, permitem ao assistente responder tanto "qual é a habilidade EF06MA02?" 
 ## Status Geral
 
 ```
-História da Matemática   ██░░░░░░░░  2 / 10 períodos concluídos
-Currículo Fundamental    ██████████  Estrutura completa (1º–9º ano)
+História da Matemática          2 / 10 períodos concluídos
+Currículo Ensino Fundamental    0 / 9 Estrutura completa (1º–9º ano)
+Currículo Ensino Médio          0 / 3 Estrutura completa (1º–3º ano)
 ```
 
 ---
