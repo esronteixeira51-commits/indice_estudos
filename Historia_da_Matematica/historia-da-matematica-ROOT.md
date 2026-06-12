@@ -135,8 +135,8 @@ A estrutura segue a progressão cronológica integrada das três fontes:
 > *Antes da escrita, antes dos números — os primeiros sinais de consciência matemática.*
 
 **Fontes Principais**
-- Boyer — Capítulo 1
-- Struik — Capítulo I
+- Boyer — cap. 1
+- Struik — cap. I
 
 **Tópicos Abordados**
 - Conceitos e relações
@@ -145,7 +145,6 @@ A estrutura segue a progressão cronológica integrada das três fontes:
 - Relações espaciais
 - Padrões geométricos nas culturas primitivas
 
----
 
 📂 **Material de Estudo**
 
@@ -155,11 +154,32 @@ A estrutura segue a progressão cronológica integrada das três fontes:
 ### Período 1 — Matemática Antiga: Egito e Mesopotâmia
 > *Da necessidade prática nasce a matemática: contar gado, medir terras, cobrar impostos.*
 
-**Fontes:** Katz cap. 1 · Boyer caps. 2–3 · Struik cap. II
-**Temas:**
-- **Egito:** sistemas numéricos, frações, operações aritméticas, geometria prática (Papiro Rhind).
-- **Mesopotâmia:** escrita cuneiforme, sistema sexagesimal, numeração posicional, equações, ternas pitagóricas, geometria como aritmética aplicada.
+**Fontes Principais** 
+- Katz — cap. 1  
+- Boyer — caps. 2–3 
+- Struik — cap. II
 
+**Tópicos Abordados**
+
+ **Egito:**
+- Sistemas numéricos, 
+- Frações, 
+- Operações aritméticas, 
+- Geometria prática (Papiro Rhind).
+
+**Mesopotâmia:** 
+- Escrita cuneiforme, 
+- Sistema sexagesimal, 
+- Numeração posicional, 
+- Equações, 
+- Ternas pitagóricas, 
+- Geometria como aritmética aplicada.
+
+
+
+📂 **Material de Estudo**
+
+→ [`Período 1 — Matemática Antiga: Egito e Mesopotâmia`](./01-Egito-e-Mesopotamia.md)
 ---
 
 ### Período 2 — A Grécia Antiga: O Nascimento do Rigor
