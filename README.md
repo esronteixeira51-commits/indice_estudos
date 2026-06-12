@@ -1,4 +1,4 @@
-# 📐 Base de Conhecimento Matemático
+# 🔬 Base de Conhecimento Científico
 
 > Projeto em desenvolvimento · Esron Tech Books · Gurupi, Tocantins, Brasil · 2026
 
@@ -6,21 +6,42 @@
 
 ## Sobre o Projeto
 
-Este repositório reúne uma base de conhecimento matemático estruturada em dois módulos complementares, desenvolvida para servir como espinha dorsal de um assistente de IA pessoal orientado a projetos de engenharia de longo prazo.
+Este repositório reúne uma base de conhecimento científica estruturada e progressiva, desenvolvida para servir como fundamento de estudos avançados em matemática, física, computação, engenharia e sistemas complexos.
 
-O projeto não é um curso convencional. É uma **base de conhecimento viva** — organizada para ser consultada, expandida e conectada por sistemas de recuperação semântica (RAG). Cada arquivo foi escrito com profundidade narrativa ou estrutura curricular explícita, dependendo do módulo.
+O projeto não é um curso convencional. Trata-se de uma **base de conhecimento viva**, organizada para ser consultada, expandida e integrada a sistemas de recuperação semântica (*Retrieval-Augmented Generation — RAG*).
+
+Cada módulo possui uma finalidade específica:
+
+- Compreender a evolução histórica das ideias matemáticas;
+- Mapear integralmente o currículo da Educação Básica brasileira;
+- Construir a ponte entre a matemática escolar e os estudos superiores;
+- Servir como núcleo de conhecimento para assistentes de IA especializados em aprendizagem e pesquisa.
 
 ---
 
-## Estrutura do Repositório
+# Visão Geral
 
-```
+O projeto está organizado como uma jornada progressiva de aprendizagem e pesquisa, conectando história, matemática, ciência e engenharia em uma única base de conhecimento.
+
+A estrutura foi projetada para servir simultaneamente:
+
+- Como material de estudo humano;
+- Como base para sistemas RAG;
+- Como núcleo de conhecimento para assistentes de IA;
+- Como mapa de formação científica e tecnológica de longo prazo.
+
+
+---
+
+# Arquitetura do Repositório
+
+```text
 📦 raiz
 │
 ├── 📖 Historia_da_Matematica/
-│   ├── historia-da-matematica-ROOT.md     ← Índice central, fontes e roadmap
-│   ├── 00-Vestigios.md                    ← Período 0 (concluído)
-│   └── 01-Egito-e-Mesopotamia.md          ← Período 1 (concluído)
+│   ├── historia-da-matematica-ROOT.md
+│   ├── 00-Vestigios.md
+│   └── 01-Egito-e-Mesopotamia.md
 │
 ├── 🏫 Matematica_Fundamental_1_a_5/
 │   ├── Habilidades_Completa.md
@@ -41,33 +62,42 @@ O projeto não é um curso convencional. É uma **base de conhecimento viva** �
 │   └── Por_Unidade_Tematica/
 │       ├── Numeros_6_a_9.md
 │       ├── Algebra_6_a_9.md
-│       ├── Algebra_6_a_9.md
 │       ├── Geometria_6_a_9.md
 │       ├── Grandezas_Medidas_6_a_9.md
 │       └── Probabilidade_Estatistica_6_a_9.md
-└── 🏫 Matematica_Medio_1_a_3/        
+│
+└── 🏫 Matematica_Medio_1_a_3/
 ```
 
 ---
 
-## Módulo 1 — História da Matemática
+# Módulo 1 — História da Matemática
+
+<details>
+<summary>📖 Clique para expandir o conteúdo</summary>
+
+### Características
 
 **Formato:** Narrativa longa em Markdown · PT-BR  
-**Público:** Leitores curiosos sem pré-requisitos, assistente de IA  
-**Filosofia:** Do concreto para o abstrato — cada conceito começa por um problema real
+**Público:** Leitores curiosos sem pré-requisitos, estudantes e assistentes de IA  
+**Filosofia:** Do concreto para o abstrato — cada conceito nasce de um problema humano real.
 
-### Fontes primárias
+### Objetivo
+
+Reconstruir a evolução do pensamento matemático desde as primeiras civilizações até a matemática contemporânea, apresentando o contexto histórico, cultural e intelectual de cada descoberta.
+
+### Fontes Principais
 
 | Autor | Obra |
-|-------|------|
-| Boyer & Merzbach | *História da Matemática* |
-| Victor J. Katz | *A History of Mathematics: An Introduction* (3ª ed.) |
+|---------|---------|
+| Carl B. Boyer & Uta C. Merzbach | *História da Matemática* |
+| Victor J. Katz | *A History of Mathematics: An Introduction* |
 | Dirk J. Struik | *A Concise History of Mathematics* |
 
 ### Progresso
 
 | Período | Título | Status |
-|---------|--------|--------|
+|----------|----------|----------|
 | 0 | Vestígios — Os Primórdios do Pensamento Matemático | ✅ Concluído |
 | 1 | Matemática Antiga — Egito e Mesopotâmia | ✅ Concluído |
 | 2 | A Grécia Antiga — O Nascimento do Rigor | 🔲 Pendente |
@@ -79,15 +109,26 @@ O projeto não é um curso convencional. É uma **base de conhecimento viva** �
 | 8 | O Século XIX — A Grande Formalização | 🔲 Pendente |
 | 9 | O Século XX e Além — A Matemática Moderna | 🔲 Pendente |
 
+</details>
+
 ---
 
-## Módulo 2 — Currículo Fundamental (BNCC)
+# Módulo 2 — Currículo Fundamental (BNCC)
+
+<details>
+<summary>📖 Clique para expandir o conteúdo</summary>
+
+### Características
 
 **Formato:** Arquivos estruturados em Markdown · PT-BR  
 **Alinhamento:** Base Nacional Comum Curricular (BNCC)  
 **Organização:** Por ano escolar e por unidade temática
 
-Cobre todo o Ensino Fundamental (1º ao 9º ano) nas cinco unidades temáticas da BNCC:
+### Objetivo
+
+Mapear integralmente as habilidades matemáticas previstas para o Ensino Fundamental, organizando-as de forma clara, consultável e compatível com sistemas de recuperação semântica.
+
+### Unidades Temáticas
 
 - **Números**
 - **Álgebra**
@@ -95,63 +136,152 @@ Cobre todo o Ensino Fundamental (1º ao 9º ano) nas cinco unidades temáticas d
 - **Grandezas e Medidas**
 - **Probabilidade e Estatística**
 
+### Cobertura
+
+- Ensino Fundamental I (1º ao 5º ano)
+- Ensino Fundamental II (6º ao 9º ano)
+
+</details>
+
+---
+
 # Módulo 3 — Matemática do Ensino Médio
 
-Formato: Arquivos estruturados em Markdown · PT-BR  
-Alinhamento: BNCC  
-Organização: Por série e área temática
+<details>
+<summary>📖 Clique para expandir o conteúdo</summary>
 
-Cobre todo o Ensino Médio (1ª à 3ª série), aprofundando os conhecimentos matemáticos e desenvolvendo raciocínio abstrato, modelagem, resolução de problemas e preparação para estudos avançados.
+### Características
 
-## Áreas Principais
+**Formato:** Arquivos estruturados em Markdown · PT-BR  
+**Alinhamento:** BNCC  
+**Organização:** Por série e área temática
+
+### Objetivo
+
+Aprofundar os conhecimentos matemáticos adquiridos no Ensino Fundamental, desenvolvendo abstração, modelagem, argumentação lógica e preparação para estudos superiores.
+
+### Finalidade
+
+Servir como ponte entre a matemática escolar e os conteúdos universitários encontrados em cursos de ciência, tecnologia, computação e engenharia.
+
+### Áreas Principais
 
 - Números e Álgebra
 - Funções
 - Geometria
+- Grandezas e Medidas
 - Trigonometria
 - Probabilidade e Estatística
 - Matemática Financeira
 - Modelagem Matemática
 
-### Progresso
+### Cobertura
 
-| Nível | Anos | Status |
-|-------|------|--------|
-| Ensino Fundamental I | 1º ao 5º ano | 🔲 Pendente |
-| Ensino Fundamental II | 6º ao 9º ano | 🔲 Pendente |
-| Ensino  Médio | 1º ao 3º ano | 🔲 Pendente |
+- 1ª Série do Ensino Médio
+- 2ª Série do Ensino Médio
+- 3ª Série do Ensino Médio
 
----
-
-## Como os Módulos se Relacionam
-
-Os dois módulos são complementares e foram projetados para funcionar juntos num sistema RAG:
-
-- O **Módulo 1** fornece contexto histórico, motivação conceitual e profundidade narrativa — o *porquê* de cada ideia matemática.
-- O **Módulo 2** fornece o mapeamento curricular preciso — o *o quê* exigido por cada etapa da escolarização básica.
-
-Juntos, permitem ao assistente responder tanto "qual é a habilidade EF06MA02?" quanto "por que as frações unitárias eram tão importantes para os egípcios?"
+</details>
 
 ---
 
-## Convenções
+# Progresso Geral
+
+| Nível | Cobertura | Status |
+|---------|---------|---------|
+| História da Matemática | 10 períodos | 🟨 2 / 10 |
+| Ensino Fundamental I | 1º ao 5º ano | 🔲 Em estruturação |
+| Ensino Fundamental II | 6º ao 9º ano | 🔲 Em estruturação |
+| Ensino Médio | 1ª à 3ª série | 🔲 Em estruturação |
+
+---
+
+# Como os Módulos se Relacionam
+
+Os módulos foram projetados para funcionar em conjunto dentro de um sistema de recuperação aumentada por geração (*RAG*).
+
+### Módulo 1 — História da Matemática
+
+Responde ao **"Por quê?"**
+
+### Módulo 2 — Currículo Fundamental
+
+Responde ao **"O que aprender?"**
+
+### Módulo 3 — Matemática do Ensino Médio
+
+Responde ao **"Como avançar?"**
+
+Juntos, os três módulos formam uma trajetória contínua que vai dos primeiros registros matemáticos da humanidade até os fundamentos necessários para Matemática Superior, Física, Computação e Engenharia.
+
+### Fluxo de Aprendizagem
+
+```text
+História
+    ↓
+Fundamentos
+    ↓
+Abstração
+    ↓
+Modelagem
+    ↓
+Ciência
+    ↓
+Engenharia
+    ↓
+Sistemas Complexos
+```
+
+---
+
+## Módulos Planejados
+
+### Em desenvolvimento
+
+- ✅ Módulo 1 — História da Matemática
+- ✅ Módulo 2 — Currículo Fundamental (BNCC)
+- ✅ Módulo 3 — Matemática do Ensino Médio (BNCC)
+
+### Planejados
+
+- 🔲 Módulo 4 — Pré-Cálculo/Cálculo
+- 🔲 Módulo 5 — Matemática Superior
+- 🔲 Módulo 6 — Física
+- 🔲 Módulo 7 — Ciência da Computação
+
+- 🔲 Módulo 8 — Engenharia
+  - Engenharia Mecânica
+  - Engenharia Elétrica
+  - Engenharia da Computação
+  - Engenharia de Controle e Automação
+  - Engenharia de Produção
+
+- 🔲 Módulo 9 — Sistemas Complexos
+  - Sistemas Dinâmicos
+  - Teoria da Complexidade
+  - Redes Complexas
+  - Sistemas Adaptativos
+  - Simulação Computacional
+  - Inteligência Artificial
+  - Engenharia de Sistemas
+  - Ciência de Redes
+  - Sistemas Multiagentes
+
+---
+
+# Convenções
 
 - **Idioma:** Português Brasileiro (PT-BR)
 - **Formato:** Markdown puro (`.md`)
+- **Compatibilidade:** GitHub, GitLab, Obsidian e sistemas RAG
 - **Datas históricas:** notação a.C. / d.C.
-- **Notação matemática:** usada com moderação, sempre acompanhada de linguagem natural
-- **Termos técnicos:** em **negrito** na primeira ocorrência, com breve definição
+- **Notação matemática:** acompanhada de linguagem natural sempre que possível
+- **Termos técnicos:** definidos na primeira ocorrência
 
 ---
 
-## Status Geral
+> Dos primeiros registros de contagem aos sistemas complexos modernos.
+>
+> Uma jornada através da história, da matemática, da ciência e da engenharia.
 
-```
-História da Matemática          2 / 10 períodos concluídos
-Currículo Ensino Fundamental    0 / 9 Estrutura completa (1º–9º ano)
-Currículo Ensino Médio          0 / 3 Estrutura completa (1º–3º ano)
-```
-
----
-
-*Projeto em desenvolvimento contínuo · Todos os arquivos em PT-BR · Formato RAG-ready*
+*Projeto em desenvolvimento contínuo · PT-BR · Markdown puro · RAG-ready*
