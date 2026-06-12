@@ -131,11 +131,25 @@ A estrutura segue a progressão cronológica integrada das três fontes:
 ---
 
 ### Período 0 — Vestígios: Os Primórdios do Pensamento Matemático
+
 > *Antes da escrita, antes dos números — os primeiros sinais de consciência matemática.*
 
-**Fontes:** Boyer cap. 1 · Struik cap. I
-**Temas:** Conceitos e relações, primeiras bases numéricas, linguagem numérica e contagem, relações espaciais, padrões geométricos nas culturas primitivas.
+**Fontes Principais**
+- Boyer — Capítulo 1
+- Struik — Capítulo I
 
+**Tópicos Abordados**
+- Conceitos e relações
+- Primeiras bases numéricas
+- Linguagem numérica e contagem
+- Relações espaciais
+- Padrões geométricos nas culturas primitivas
+
+---
+
+📂 **Material de Estudo**
+
+→ [`Vestígios — Os Primórdios do Pensamento Matemático`](./00-Vestigios.md)
 ---
 
 ### Período 1 — Matemática Antiga: Egito e Mesopotâmia
