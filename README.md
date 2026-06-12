@@ -95,6 +95,24 @@ Cobre todo o Ensino Fundamental (1º ao 9º ano) nas cinco unidades temáticas d
 - **Grandezas e Medidas**
 - **Probabilidade e Estatística**
 
+# Módulo 3 — Matemática do Ensino Médio
+
+Formato: Arquivos estruturados em Markdown · PT-BR  
+Alinhamento: BNCC  
+Organização: Por série e área temática
+
+Cobre todo o Ensino Médio (1ª à 3ª série), aprofundando os conhecimentos matemáticos e desenvolvendo raciocínio abstrato, modelagem, resolução de problemas e preparação para estudos avançados.
+
+## Áreas Principais
+
+- Números e Álgebra
+- Funções
+- Geometria
+- Trigonometria
+- Probabilidade e Estatística
+- Matemática Financeira
+- Modelagem Matemática
+
 ### Progresso
 
 | Nível | Anos | Status |
