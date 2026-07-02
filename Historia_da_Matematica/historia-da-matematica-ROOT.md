@@ -185,9 +185,34 @@ A estrutura segue a progressão cronológica integrada das três fontes:
 ### Período 2 — A Grécia Antiga: O Nascimento do Rigor
 > *A matemática deixa de ser apenas útil e passa a ser bela — nasce a prova matemática.*
 
-**Fontes:** Katz caps. 2–6 · Boyer caps. 4–8 · Struik cap. III
-**Temas:** Tales, Pitágoras, os três problemas clássicos, incomensurabilidade, paradoxos de Zenão, **Euclides e Os Elementos**, **Arquimedes**, **Apolônio e as cônicas**, astronomia, trigonometria, declínio da matemática grega.
+**Fontes Principais** 
+- Katz caps. 2–6 · 
+- Boyer caps. 4–8 · 
+- Struik cap. III
 
+**Tópicos Abordados**
+
+**Temas:** 
+- Tales, 
+- Pitágoras, 
+- os três problemas clássicos, 
+- incomensurabilidade, 
+- paradoxos de Zenão, 
+
+**Euclides e Os Elementos** 
+
+**Arquimedes**
+
+**Apolônio e as cônicas:**
+- astronomia, 
+- trigonometria, 
+- declínio da matemática grega.
+
+
+
+📂 **Material de Estudo**
+
+→ [`Período 2 — A Grécia Antiga: O Nascimento do Rigor`](./)
 ---
 
 ### Período 3 — O Oriente Medieval: China, Índia e Islã
