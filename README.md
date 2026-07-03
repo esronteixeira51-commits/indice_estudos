@@ -40,8 +40,11 @@ A estrutura foi projetada para servir simultaneamente:
 │
 ├── 📖 Historia_da_Matematica/
 │   ├── historia-da-matematica-ROOT.md
-│   ├── 00-Vestigios.md
-│   └── 01-Egito-e-Mesopotamia.md
+│   ├── 00-Vestigios/
+│   ├── 01-Egito-e-Mesopotamia/
+│   ├── 02-Grecia_Antiga/
+│   ├── 03-Oriente-Medieval/
+│   └── 
 │
 ├── 🏫 Matematica_Fundamental_1
 │   ├── 1_numeros/
@@ -75,7 +78,7 @@ A estrutura foi projetada para servir simultaneamente:
 │   └── 16_estatistica/
 │     
 │
-└── 🏫 Matematica_Medio_1_a_3/
+└── 🏫 Matematica_Ensino_Medio
 ```
 
 ---
