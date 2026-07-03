@@ -33,9 +33,9 @@ Pessoas curiosas que querem **compreender** a matemática — não apenas saber 
 
 | # | Autor(es) | Título | Arquivo PDF | Observação |
 |---|-----------|--------|-------------|------------|
-| 1 | Dirk J. Struik | *A Concise History of Mathematics* | páginas 5–7 | Conciso e denso — ideal para síntese e identificação dos pontos essenciais de cada período. |
-| 2 | Victor J. Katz | *A History of Mathematics: An Introduction* (3ª ed.) | páginas 6–12 | Didático e estruturado — organizado cronológica e tematicamente, pensado para ensino. |
-| 3 | Carl B. Boyer & Uta C. Merzbach | *História da Matemática* | páginas 19–23 | Amplo e narrativo — excelente para contextualização histórica e cultural. Disponível em PT-BR. |
+| 1 | Dirk J. Struik | *A Concise History of Mathematics* | páginas 260 | Conciso e denso — ideal para síntese e identificação dos pontos essenciais de cada período. |
+| 2 | Victor J. Katz | *A History of Mathematics: An Introduction* (3ª ed.) | páginas 996 | Didático e estruturado — organizado cronológica e tematicamente, pensado para ensino. |
+| 3 | Carl B. Boyer & Uta C. Merzbach | *História da Matemática* | páginas 512 | Amplo e narrativo — excelente para contextualização histórica e cultural. Disponível em PT-BR. |
 
 ---
 
@@ -148,7 +148,7 @@ A estrutura segue a progressão cronológica integrada das três fontes:
 
 📂 **Material de Estudo**
 
-→ [`Vestígios — Os Primórdios do Pensamento Matemático`](./00-Vestigios.md)
+<!--`Vestígios — Os Primórdios do Pensamento Matemático`-->
 ---
 
 ### Período 1 — Matemática Antiga: Egito e Mesopotâmia
@@ -179,7 +179,7 @@ A estrutura segue a progressão cronológica integrada das três fontes:
 
 📂 **Material de Estudo**
 
-→ [`Período 1 — Matemática Antiga: Egito e Mesopotâmia`](./01-Egito-e-Mesopotamia.md)
+<!--`Período 1 — Matemática Antiga: Egito e Mesopotâmia`-->
 ---
 
 ### Período 2 — A Grécia Antiga: O Nascimento do Rigor
@@ -212,7 +212,7 @@ A estrutura segue a progressão cronológica integrada das três fontes:
 
 📂 **Material de Estudo**
 
-→ [`Período 2 — A Grécia Antiga: O Nascimento do Rigor`](./)
+<!--`Período 2 — A Grécia Antiga: O Nascimento do Rigor`-->
 ---
 
 ### Período 3 — O Oriente Medieval: China, Índia e Islã
@@ -316,9 +316,9 @@ Cada período será desenvolvido seguindo esta estrutura interna:
 
 ## Roadmap
 
-- [ ] Período 0 — Vestígios
-- [ ] Período 1 — Egito e Mesopotâmia
-- [ ] Período 2 — Grécia Antiga
+- ✅ Período 0 — Vestígios
+- ✅ Período 1 — Egito e Mesopotâmia
+- ✅ Período 2 — Grécia Antiga
 - [ ] Período 3 — Oriente Medieval (China, Índia e Islã)
 - [ ] Período 4 — Ocidente Medieval
 - [ ] Período 5 — Renascimento Europeu

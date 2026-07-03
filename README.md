@@ -59,7 +59,7 @@ A estrutura foi projetada para servir simultaneamente:
 │   └── 9_Estatistica/
 │       
 │
-├── 🏫 Matematica_Fundamental_1_a_9/
+├── 🏫 Matematica_Fundamental_2/
 │   ├── 1_numero_inteiros/
 │   ├── 2_numeros_racionais/
 │   ├── 3_numeros_irracionais_e_reais/
