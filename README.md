@@ -43,28 +43,37 @@ A estrutura foi projetada para servir simultaneamente:
 │   ├── 00-Vestigios.md
 │   └── 01-Egito-e-Mesopotamia.md
 │
-├── 🏫 Matematica_Fundamental_1_a_5/
-│   ├── Habilidades_Completa.md
-│   ├── 1º_Ano/
-│   ├── 2º_Ano/
-│   ├── 3º_Ano/
-│   ├── 4º_Ano/
-│   ├── 5º_Ano/
-│   └── Por_Unidade_Tematica/
-│       └── Numeros_1_a_5.md
+├── 🏫 Matematica_Fundamental_1
+│   ├── 1_numeros/
+│   │    └──
+│   ├── 2_operações/
+│   ├── 3_frações/
+│   ├── 4_Decimais/
+│   ├── 5_porcentagem/
+│   ├── 6_Algebra/
+│   ├── 7_geometria/
+│   ├── 8_Grandezas/ 
+│   └── 9_Estatistica/
+│       
 │
 ├── 🏫 Matematica_Fundamental_1_a_9/
-│   ├── Habilidades_Completa_Fundamental_II.md
-│   ├── 6º_Ano/
-│   ├── 7º_Ano/
-│   ├── 8º_Ano/
-│   ├── 9º_Ano/
-│   └── Por_Unidade_Tematica/
-│       ├── Numeros_6_a_9.md
-│       ├── Algebra_6_a_9.md
-│       ├── Geometria_6_a_9.md
-│       ├── Grandezas_Medidas_6_a_9.md
-│       └── Probabilidade_Estatistica_6_a_9.md
+│   ├── 1_numero_inteiros/
+│   ├── 2_numeros_racionais/
+│   ├── 3_numeros_irracionais_e_reais/
+│   ├── 4_potenciação/
+│   ├── 5_expressoes_algebricas/
+│   ├── 6_equações/
+│   ├── 7_inequações/
+│   ├── 8_funções/
+│   ├── 9_progressoes/
+│   ├── 10_geometria_plana/
+│   ├── 11_geometria_espacial/
+│   ├── 12_trigonometria/
+│   ├── 13_matematica_financeira/
+│   ├── 14_analise_combinatoria/
+│   ├── 15_probabiliade/
+│   └── 16_estatistica/
+│     
 │
 └── 🏫 Matematica_Medio_1_a_3/
 ```
@@ -100,7 +109,7 @@ Reconstruir a evolução do pensamento matemático desde as primeiras civilizaç
 |----------|----------|----------|
 | 0 | Vestígios — Os Primórdios do Pensamento Matemático | ✅ Concluído |
 | 1 | Matemática Antiga — Egito e Mesopotâmia | ✅ Concluído |
-| 2 | A Grécia Antiga — O Nascimento do Rigor | 🔲 Pendente |
+| 2 | A Grécia Antiga — O Nascimento do Rigor | ✅ Concluído |
 | 3 | O Oriente Medieval — China, Índia e Islã | 🔲 Pendente |
 | 4 | O Ocidente Medieval e os Primórdios na Europa | 🔲 Pendente |
 | 5 | O Renascimento Europeu | 🔲 Pendente |
@@ -189,8 +198,8 @@ Servir como ponte entre a matemática escolar e os conteúdos universitários en
 
 | Nível | Cobertura | Status |
 |---------|---------|---------|
-| História da Matemática | 10 períodos | 🟨 2 / 10 |
-| Ensino Fundamental I | 1º ao 5º ano | 🔲 Em estruturação |
+| História da Matemática | 10 períodos | 🟨 3 / 10 |
+| Ensino Fundamental I | 1º ao 5º ano | ✅ Concluído |
 | Ensino Fundamental II | 6º ao 9º ano | 🔲 Em estruturação |
 | Ensino Médio | 1ª à 3ª série | 🔲 Em estruturação |
 
